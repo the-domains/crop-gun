@@ -1,0 +1,28 @@
+name: Crop Gun
+favicon: null
+layout_spectrum: 0.09421589132398367
+typography_spectrum: 0.5486885560676455
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9743597039487213
+  lightness: 0.45007877168245614
+  saturation: 0.46002536243759096
+  rhythmicContrast: 0.10700939875096083
+purpose: []
